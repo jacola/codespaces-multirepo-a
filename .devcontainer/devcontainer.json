@@ -1,0 +1,13 @@
+{
+    "postCreateCommand": "bash bin/clone-repos.sh",
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "jacola/codespaces-multirepo-b": {
+            "permissions": "write-all"
+          }
+        }
+      }
+    }
+  }
+  
