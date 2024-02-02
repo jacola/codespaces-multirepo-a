@@ -1,9 +1,11 @@
     {
         "folders": [
             {
+                "name": "Repo A",
                 "path": "."
             },
             {
+                "name": "Repo B",                
                 "path": "../codespaces-multirepo-b"
             }
         ],
